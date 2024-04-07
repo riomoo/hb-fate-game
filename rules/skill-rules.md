@@ -5,7 +5,7 @@
       of the present and not the past or the ability to guess what has occurred in the past.
         ex ---------------------------------------------------------------------------
             GM: "Once you three arrive in this room, there's a foul smell in the air."
-            player 1: "I would like to use my notice of +2 to determine the scent."
+            Player 1: "I would like to use my notice of +2 to determine the scent."
             GM: "It's blood. and a lot of it."
            ---------------------------------------------------------------------------
         Here this example shows the possible usage of Notice and how important it can be in

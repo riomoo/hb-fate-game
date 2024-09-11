@@ -33,4 +33,4 @@
 
     If any player goes down during this fight, he will attempt to finish them off once but never again. to finish someone off he will need to not be hit for 1 full turn after he takes aim to do so, attempt to put one of those rocks through their head, this cannot miss and can only be stopped by hitting him once. Players finished off by this attack are effectively gone.
     
-       After beating him, he will also be effectively gone. The players can find an expensive freshly bought bottle of alcohol
+       After beating him, he will also be effectively gone. The players can find an expensive freshly bought bottle of alcohol and may close out the game with the conclusion from the Sinner they took the case for, giving her thanks.

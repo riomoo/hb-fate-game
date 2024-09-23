@@ -11,6 +11,8 @@
         Here this example shows the possible usage of Notice and how important it can be in
         this detective style game. The intensity grows with value of Notice. You can also try
         to add a roll to it to determine where the smell is coming from, or if its old or fresh.
+        But not how old or how fresh. Just if its warm or cold. Determining exact time of death
+        or age of the blood would require Investigate.
 
     - Investigate primarily focuses on things that has happened already not the present,
       and can only be used in rolls to determine things.

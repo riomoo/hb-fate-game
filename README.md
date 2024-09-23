@@ -3,7 +3,7 @@
     This is a Fate Core game based on the world of Helluva Boss.
     However this has no reference to such characters,
     not even in the same year of the present events of the show,
-    nor will there be any mention of the characters in this summary or in the example campaign,
+    nor will there be any mention of the characters in this summary or in the example campaign
     I have designed. This merely takes place in the same world some years before those events.
     That I'll leave up to you to determine.
  
